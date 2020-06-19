@@ -1,1 +1,3 @@
-asigvfsdafnvnbhdsañohvgshfgbnñsfb 
+Crear un programa en C++ que solicite al usuario un numero real  que representa
+metros cúbicos y convierta ese número a litros. Cada alumno debe crear un archivo .cpp con la solución y 
+nombrandolo con el nombre del alumno
